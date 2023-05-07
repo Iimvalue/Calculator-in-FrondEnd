@@ -1,2 +1,2 @@
 # Calculator-in-FrondEnd
-Build simple calculator using HTML,CSS,JS 
+It is a standard calculator application to perform basic calculations.

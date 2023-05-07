@@ -1,10 +1,9 @@
 .container{
     position: absolute;
-    margin: auto;
-    margin-left: 20%;
+    left: 35%;
     width: 420px;
+    top: 20%;
 
-    top: 30%;
     border: 1px solid black;
     border-radius:15px;
 }
